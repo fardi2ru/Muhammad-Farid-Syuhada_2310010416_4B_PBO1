@@ -23,7 +23,7 @@ public class Makanan extends Mahasiswa {
     ...
 }
 
-public class MahasiswaBeraksi {
+public class MakananBeraksi {
     ...
 }
 ```
